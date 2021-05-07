@@ -25,7 +25,7 @@
  />
 </a>
 &emsp;
-<a href="www.jmbhughes.com">
+<a href="https://www.jmbhughes.com">
   <img
        src = "https://www.flaticon.com/svg/vstatic/svg/431/431979.svg?token=exp=1620353278~hmac=4005a5dbeb6ea389b26f97bce42e18b4"
        width = 35
