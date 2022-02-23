@@ -27,7 +27,7 @@
 &emsp;
 <a href="https://www.jmbhughes.com">
   <img
-       src = "https://cdn-icons.flaticon.com/png/512/2002/premium/2002826.png?token=exp=1643350757~hmac=12de06b5296b05c3b1da429260dd8dcc"
+       src = "icons8-website-64.png"
        width = 35
        height = 35
   />
