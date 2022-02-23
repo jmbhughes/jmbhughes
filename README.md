@@ -32,3 +32,5 @@
        height = 35
   />
 </a>
+
+<a target="_blank" href="https://icons8.comundefined">Website</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
